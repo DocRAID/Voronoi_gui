@@ -1,0 +1,11 @@
+[package]
+name = "voronoi_grapic"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.32"         # 최신 버전 기준
+egui = "0.32"
+voronoice = "0.2"
+image = "0.25"
+rand = "0.9.2"
